@@ -18,4 +18,5 @@
 - Integrate datasets 
 - Create visualizations by using ggplot2 
 - Create summary tables by using dplyr 
+- Apply regression models 
 
