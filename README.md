@@ -13,3 +13,9 @@
 - Visualizations 
 ## Programming Language Used
 - R 
+## What I Learned 
+- Use API to scrap data
+- Integrate datasets 
+- Create visualizations by using ggplot2 
+- Create summary tables by using dplyr 
+
